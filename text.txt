@@ -1,0 +1,14 @@
+entorno virtual (venv)
+python -m venv venv
+
+python -c "print('hola')"
+
+sample aplication
+python -c "import reactpy; reactpy.run(reactpy.sample.SampleApp)"
+
+
+* frameworks de python
+starlette
+fastapi
+flask
+django
